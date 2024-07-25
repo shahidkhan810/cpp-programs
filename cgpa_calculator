@@ -14,7 +14,7 @@ int main() {
 
     cout << "    _______________________________\n";
     cout << "   |-------------------------------|\n";
-    cout << "   |   Developed by Iqbal Bhatti   |\n";
+    cout << "   |   Developed by Shahid Khan    |\n";
     cout << "   |_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_|\n";
     cout << "\n\n";
     cout << "    _______________________________ \n";
